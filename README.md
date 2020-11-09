@@ -9,7 +9,7 @@ control de entrada y salida de personal Control de asistencia online desde telé
 <p>Sepa que empleados <em> llegan tarde </em>, muy rapido y al momento!</p>
 
 <p>Recupere el control de la gesti&#243;n de los horarios de trabajo de su empresa!. 
-
+<p>.htaccess <em> 403.php </em>, 404.php colocalo en el archivo raiz de tu sitio web</p>
 dise&#241;o de aspecto limpio con texto y un bot&#243;n de llamada a la acci&#243;n que lleva al usuario de regreso a la p&#225;gina de inicio.</p>
 
 <p><h2 id="permitir-aplicaciones-menos-seguras-">ver llegadas tarde.</h2> Puede descargar la p&#225;gina Aqu&#237; <a href="https://github.com/ipxxx999/control_de_entrada_y_salida_de_personal" target="_blank">control de entrada y salida de personal github</a> exclusivo:</p>
